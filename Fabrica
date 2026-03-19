@@ -8,7 +8,7 @@ public class Fabrica {
 
 	public Fabrica(List<Auto> listaAutomoviles) {
 		super();
-		this.listaAutomoviles = listaAutomoviles;
+		this.listaAutomoviles = new.ArrayList;
 	}
 	
 	public void agregarAutomovil(Auto auto) {
