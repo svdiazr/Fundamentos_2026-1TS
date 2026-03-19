@@ -1,9 +1,7 @@
 package automotriz;
 
-//no se como descargar esta libreria y no me sirvio jeje
-//import java.util.ArayList;
 
-
+import java.util.ArrayList;
 import java.util.List;
 
 public class Auto {
